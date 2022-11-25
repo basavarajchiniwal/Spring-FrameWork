@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:context="http://www.springframework.org/schema/context" xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd"> <!-- bean definitions here -->
+<bean class="com.xworkz.entities.Films" name="film"><property name="filmName" value="RRR"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film1"><property name="filmName" value="Just Math Mathalli"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film2"><property name="filmName" value="Githa Govindam"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film3"><property name="filmName" value="KGF"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film4"><property name="filmName" value="KGF2"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film5"><property name="filmName" value="BahuBali"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film6"><property name="filmName" value="BahuBali-2"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film7"><property name="filmName" value="Seetha Kalyana"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film8"><property name="filmName" value="Rajadhani"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film9"><property name="filmName" value="Gangstar"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film10"><property name="filmName" value="Ambari"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film11"><property name="filmName" value="U-Turn"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film12"><property name="filmName" value="5-4=2"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film13"><property name="filmName" value="SpiderMan"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film14"><property name="filmName" value="X-Men"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film15"><property name="filmName" value="Hulk Man"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film16"><property name="filmName" value="Avengers"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film17"><property name="filmName" value="Fast And Furious"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film18"><property name="filmName" value="Super Man"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film19"><property name="filmName" value="Yuvarathna"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film20"><property name="filmName" value="K3G"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film21"><property name="filmName" value="Main Hu Na"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film22"><property name="filmName" value="Baazighar"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film23"><property name="filmName" value="Bhajarangi"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film24"><property name="filmName" value="Kuch Kuch Hota Hai"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film25"><property name="filmName" value="Kaho Na Pyaar Hai"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film26"><property name="filmName" value="Kal Ho Na Ho"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film27"><property name="filmName" value="Don"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film28"><property name="filmName" value="DDLJ"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film29"><property name="filmName" value="Mohabbatien"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film30"><property name="filmName" value="Bhajarangi Bhaijaan"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film31"><property name="filmName" value="Bhul Bhulaiyya"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film32"><property name="filmName" value="3-Idiots"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film33"><property name="filmName" value="Commando"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film34"><property name="filmName" value="Krish"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film35"><property name="filmName" value="Krishna Cottage"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film36"><property name="filmName" value="Rehna Hai Tere Dil Me"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film37"><property name="filmName" value="Pardesi"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film38"><property name="filmName" value="Chak De India"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film39"><property name="filmName" value="Rand De Basanthi"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film40"><property name="filmName" value="Dhoom-3"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film41"><property name="filmName" value="Dhoom"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film42"><property name="filmName" value="Ramleela"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film43"><property name="filmName" value="SpiderMan-1"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film44"><property name="filmName" value="SpiderMan-2"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film45"><property name="filmName" value="SpiderMan-3"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film46"><property name="filmName" value="Dhadkhan"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film47"><property name="filmName" value="MohenjoDaro"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film48"><property name="filmName" value="Lagaan"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film49"><property name="filmName" value="Rab Ne Banadi Jodi"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film50"><property name="filmName" value="Scam 1992"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film51"><property name="filmName" value="Maoney Hiest"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film52"><property name="filmName" value="Tum Mile"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film53"><property name="filmName" value="Guzarish"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film54"><property name="filmName" value="Gajakesari"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film55"><property name="filmName" value="Santhu Straight Forward"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film56"><property name="filmName" value="Galliyan"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film57"><property name="filmName" value="Bodyguard"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film58"><property name="filmName" value="Jannath"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film59"><property name="filmName" value="Murder-2"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film60"><property name="filmName" value="Murder"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film61"><property name="filmName" value="Zeher"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film62"><property name="filmName" value="Raees"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film63"><property name="filmName" value="Aashiqui-2"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film64"><property name="filmName" value="Aashiqui"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film65"><property name="filmName" value="Jarasandha"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film66"><property name="filmName" value="Dirty Picture"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film67"><property name="filmName" value="Zero"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film68"><property name="filmName" value="Masterpiece"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film69"><property name="filmName" value="Mr and Ms Ramachaari"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film70"><property name="filmName" value="Kick"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film71"><property name="filmName" value="Krishna"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film72"><property name="filmName" value="Fanaa"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film73"><property name="filmName" value="Sarfarosh"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film74"><property name="filmName" value="Villain"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film75"><property name="filmName" value="Modala Sala"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film76"><property name="filmName" value="Paramathma"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film77"><property name="filmName" value="Googly"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film78"><property name="filmName" value="Parijaath"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film79"><property name="filmName" value="Taajmahal"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film80"><property name="filmName" value="Ghajini"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film81"><property name="filmName" value="AnnaBond"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film82"><property name="filmName" value="Veer-Zaara"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film83"><property name="filmName" value="Maina"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film84"><property name="filmName" value="Khalnayak"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film85"><property name="filmName" value="Om Shanti Om"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film86"><property name="filmName" value="Dilwale"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film87"><property name="filmName" value="Thotapuri"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film88"><property name="filmName" value="Kotigobba"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film89"><property name="filmName" value="Ramachari"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film90"><property name="filmName" value="Chandra Chakori"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film91"><property name="filmName" value="Kanasugaar"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film92"><property name="filmName" value="Kempegowda"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film93"><property name="filmName" value="Kung fu Panda"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film94"><property name="filmName" value="Raaz"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film95"><property name="filmName" value="Tiger Zinda Hai"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film96"><property name="filmName" value="Dil toh Pagal Hai"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film97"><property name="filmName" value="Dil"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film98"><property name="filmName" value="Jab Thak Hai Jaan"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film99"><property name="filmName" value="Dil Rangeela"></property></bean>
+<bean class="com.xworkz.entities.Films" name="film100"><property name="filmName" value="Lucky"></property></bean>
+
+
+
+
+
+
+</beans>
