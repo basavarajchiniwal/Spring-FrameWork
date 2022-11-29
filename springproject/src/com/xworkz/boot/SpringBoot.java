@@ -100,7 +100,6 @@ public class SpringBoot {
 		// System.out.println(spring.toString());
 		System.out.println("----------------deatails--------------------");
 		String bean108 = spring.getBean("instituteDetails", String.class);
-		System.out.println(bean108.toString());
 		System.out.println(bean108.hashCode());
 		System.out.println(bean108);
 		System.out.println("================================================");
