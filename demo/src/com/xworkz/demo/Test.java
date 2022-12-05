@@ -10,12 +10,17 @@ abstract class Test {
 abstract class SubTest extends Test {
 	public void m1() {
 		System.out.println("running m1 method");
-	} 	
+	}
 }
 
 class SubSubTest extends Test {
 
 	public void m2() {
 		System.out.println("running m2 method");
+	}
+
+	@Override
+	public void m1() {
+		System.out.println("running m2 ethod ");
 	}
 }

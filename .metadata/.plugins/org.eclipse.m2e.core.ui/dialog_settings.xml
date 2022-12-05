@@ -3,12 +3,17 @@
 	<section name="wizardPage">
 		<list key="groupId">
 			<item value="com.xworkz"/>
+			<item value="com.xworkz.springcoreannotation"/>
+			<item value="com.xworkz.springdemo"/>
 			<item value="com.springclasses"/>
 			<item value="slipper"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="spring-dependency-injection"/>
+			<item value="springcoreannotation"/>
+			<item value="springdemo"/>
 			<item value="springautowired"/>
 			<item value="springclasses"/>
 			<item value="springproject"/>
