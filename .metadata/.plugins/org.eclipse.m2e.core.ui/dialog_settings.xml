@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="com.xworkz.springabstraction"/>
 			<item value="com.xworkz.spring-abstraction"/>
 			<item value="com.xworkz.spring-di"/>
 			<item value="com.xworkz"/>
@@ -13,6 +14,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="springabstraction"/>
 			<item value="spring-abstraction"/>
 			<item value="spring-di"/>
 			<item value="spring-dependency-injection"/>

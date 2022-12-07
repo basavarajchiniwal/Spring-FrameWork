@@ -1,7 +1,10 @@
 package com.xworkz.abstraction.repository;
 
+import org.springframework.stereotype.Component;
+
 import com.xworkz.abstraction.dto.TheaterDTO;
 
+@Component
 public class TheaterRepositoryImpl implements TheaterRepository {
 
 	@Override

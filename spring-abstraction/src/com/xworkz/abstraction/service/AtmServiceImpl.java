@@ -1,6 +1,7 @@
 package com.xworkz.abstraction.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 import com.xworkz.abstraction.dto.AtmDTO;
@@ -9,6 +10,7 @@ import com.xworkz.abstraction.repository.AtmRepository;
 @Component
 public class AtmServiceImpl implements AtmService {
 	@Autowired
+	//@Qualifier("atmRepository")
 	private AtmRepository atm;
 
 	@Override

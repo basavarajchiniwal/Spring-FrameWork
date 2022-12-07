@@ -1,7 +1,10 @@
 package com.xworkz.abstraction.repository;
 
+import org.springframework.stereotype.Component;
+
 import com.xworkz.abstraction.dto.SimDTO;
 
+@Component
 public class SimRepositoryImpl implements SimRepository {
 
 	@Override

@@ -1,7 +1,9 @@
 package com.xworkz.abstraction.repository;
 
-import com.xworkz.abstraction.dto.PenDriveDTO;
+import org.springframework.stereotype.Component;
 
+import com.xworkz.abstraction.dto.PenDriveDTO;
+@Component
 public class PenDriveRepositoryImpl implements PenDriveRepository {
 
 	@Override
